@@ -1,0 +1,4 @@
+venv
+.env
+myrock
+*.egg-info/
